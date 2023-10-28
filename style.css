@@ -98,7 +98,7 @@ a {
 	border: blue solid 4px;
 	border-color: blue;
 	border-radius: 24px;
-	padding: 0px;
+	padding: 24px;
 }
 
 .box1-text, .box3-text, .box2-text {
